@@ -35,12 +35,14 @@ Now goto http://localhost:8000 and interact with the project. You can do anythin
 
 ## FAQ
 1) Checkout specific directory,  
+
 	a) Create a new project directory. `mkdir <directory-name>`  
 	b) `cd <directory-name`  
 	c) `git init`  
 	d) `git sparse-checkout init`  
-	e) `git sparse-checkout set "ProjectName"`. Replace `ProjectName` with project of your interest.  
+	e) `git sparse-checkout set "ProjectName/"`. Replace `ProjectName` with project of your interest.  
 	f) `git sparse-checkout list`. To check which directories will be checked out.  
+	g) `git remote add -f origin https://github.com/iambigyandahal/LaravelProjects.git`  
 	g) `git pull origin master`  
 
 Thus you can checkout specific directories of your interest.
