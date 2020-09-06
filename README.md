@@ -1,5 +1,5 @@
 # LaravelProjects
-Repository for my Laravel Projects. Please check [FAQ](#faq) section
+Repository for my Laravel Projects. Please check [FAQ](#faq) section to see if your query is already answered.
 
 ## How to install these projects on your device locally?
 
