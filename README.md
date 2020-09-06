@@ -19,7 +19,7 @@ If you cloned whole repository `cd` inside the repository. And then,
 
 6) `cp .env.example .env`  
 
-Create a database for your project and open your text editor and change database details in .env file
+Create a mysql database for your project, open your text editor and change database details in .env file.
 
 8) `php artisan key:generate`  
 
