@@ -34,7 +34,7 @@ Finally the project is setup to run so type the command below to run the server.
 Now goto http://localhost:8000 and interact with the project. You can do anything with it.
 
 ## FAQ
-1) Checkout specific directory,
+1) Checkout specific directory,  
 	a) Create a new project directory. `mkdir <directory-name>`  
 	b) `cd <directory-name`  
 	c) `git init`  
